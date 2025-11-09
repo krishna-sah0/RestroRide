@@ -7,7 +7,17 @@ Include monitoring, failure modes, and mitigation in README.md
 
 Here are the additional sections and files for an enhanced professional README.md, plus a CONTRIBUTING.md checklist, covering summary, setup, usage, and operational guidance.
 
----
+Lets Some Discuss about the Feature of this Project OVERVIEW :
+
+Step 1: First you can Login the Page
+Step 2: Interface
+<img width="1337" height="598" alt="image" src="https://github.com/user-attachments/assets/4f2f41e3-788b-43f7-8560-7da540655c44" />
+Step 3: Go to the Browser  
+<img width="1337" height="583" alt="image" src="https://github.com/user-attachments/assets/9d8f1cc0-f3f4-4334-a941-bc41b08259f2" />
+Step 4: Purchase some Premium Subscriptions
+Step 5 : Got to the SELL option
+<img width="1306" height="590" alt="image" src="https://github.com/user-attachments/assets/431614d9-9ad8-42b5-bffe-a017fec00362" />
+Step 6 : Fill the Form Date need upto 1,2,3 year accordingly after that list my Subscription
 
 ## Project Summary \& Purpose
 
